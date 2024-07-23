@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://yourdomain.com/index.html</loc>
+        <loc>https://asa240.github.io/Example-Wiki.html</loc>
         <lastmod>2024-07-23</lastmod>
     </url>
     <url>
-        <loc>http://yourdomain.com/section1.html</loc>
+        <loc>https://asa240.github.io/Example-Wiki/section1.html</loc>
         <lastmod>2024-07-23</lastmod>
     </url>
     <url>
-        <loc>http://yourdomain.com/section2.html</loc>
+        <loc>https://asa240.github.io/Example-Wiki/section2.html</loc>
         <lastmod>2024-07-23</lastmod>
     </url>
     <url>
-        <loc>http://yourdomain.com/section3.html</loc>
+        <loc>https://asa240.github.io/Example-Wiki/section3.html</loc>
         <lastmod>2024-07-23</lastmod>
     </url>
 </urlset>
